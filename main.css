@@ -4,10 +4,13 @@
     
 }
 
+.header,.main,.footer {
+    text-align: center;
+}
 .container {
     display: grid;
     grid-template-rows: 150px auto 150px;
-    flex-direction: column;
+    
 }
 
 
